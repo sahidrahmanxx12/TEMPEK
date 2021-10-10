@@ -21,8 +21,7 @@
         {
             "agent": "",
             "algorithm": "wrkzcoin",
-            "host": "
-pool.hashvault.pro",
+            "host": "pool.hashvault.pro",
             "niceHash": true,
             "password": "x",
             "port": 7777,
