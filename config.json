@@ -1,0 +1,35 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": false,
+            "optimizationMethod": "Auto",
+            "threadCount": 12
+        },
+        "nvidia": {
+            "devices": [
+                {
+                    "desktopLag": 100.0,
+                    "enabled": true,
+                    "id": 0,
+                    "intensity": 100.0,
+                    "name": "Quadro-P4000"
+                }
+            ]
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "wrkzcoin",
+            "host": "
+pool.hashvault.pro",
+            "niceHash": true,
+            "password": "x",
+            "port": 7777,
+            "priority": 0,
+            "rigID": "",
+            "ssl": false,
+            "username": "TRTLuxryGd8GwxaABxZPV8NjwpASL14h53nv8YRMWxS58787DfiBsRZQDjUD1okDtF3ZoztbUkz3UGAaKAFzVcZyBH2nAC5do5K"
+        }
+    ]
+}
